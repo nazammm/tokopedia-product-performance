@@ -1,0 +1,4 @@
+,Coef.,Std.Err.,P>|z|
+log_price,-0.407,0.029,0.0
+rating,1.491,0.366,0.0
+greater_jakarta[T.True],0.161,0.096,0.092

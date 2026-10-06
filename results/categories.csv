@@ -1,0 +1,30 @@
+category,products,median_price,median_units,median_reviews_per_unit
+Body Care,26,89455.0,9349.5,0.472
+Party Supplies and Craft,36,9200.0,9233.0,0.138
+Office & Stationery,53,12899.0,7974.0,0.145
+Health,25,43000.0,7597.0,0.311
+Food and Drink,59,45000.0,7451.0,0.31
+Animal Care,36,28500.0,6779.0,0.282
+Carpentry,24,48400.0,5788.5,0.357
+Automotive,50,30494.0,5787.0,0.296
+Muslim Fashion,47,30000.0,5697.0,0.265
+Mother and Baby,45,52500.0,5309.0,0.298
+Beauty,45,25000.0,5043.0,0.384
+Other Products,26,19625.0,4347.5,0.29
+Kitchen,53,59900.0,3772.0,0.411
+Computers and Laptops,83,136500.0,3225.0,0.483
+Tour and Travel,21,4439000.0,3014.0,0.181
+Household,63,55000.0,2872.0,0.451
+Camera,68,59950.0,2812.0,0.331
+Sport,43,57999.0,2679.0,0.406
+Movies and Music,22,70550.0,2609.5,0.417
+Women's Fashion,42,51000.0,2569.0,0.332
+Toys and Hobbies,61,49000.0,2057.0,0.368
+Electronics,72,180000.0,2001.5,0.428
+Phones and Tablets,30,189000.0,1757.0,0.451
+Men's Fashion,82,94500.0,1603.0,0.43
+Precious Metal,8,2462500.0,1481.0,0.348
+Kids and Baby Fashion,32,40500.0,1420.0,0.451
+Gaming,78,79050.0,798.5,0.475
+Books,71,99000.0,644.0,0.527
+Property,7,40000.0,429.0,0.285

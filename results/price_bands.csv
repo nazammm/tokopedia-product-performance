@@ -1,0 +1,6 @@
+price_band,products,price_vs_category,units_vs_category
+Cheapest 20%,263,0.22,1.66
+2nd,260,0.61,1.24
+Middle,262,1.0,1.0
+4th,261,1.97,0.78
+Priciest 20%,262,5.43,0.65
